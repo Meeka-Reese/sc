@@ -1,0 +1,4 @@
+# Sharing Is Caring Proposal
+<p>
+My goal for the project is to create a pallete of instruments that can be instantiated by dragging their icon into the workspace GUI. From there, their parameters and note generation will be depndent on the their x and y position. There will also be some parameters that are mapped to the mouse's overall position. The main inspirations for this project are Colugo's Circus in his DAW Blockhead and the C Sound Meta Quest project Dr.B is doing with Strong Bear. The overall movements of the peice are very improvisational, but the goal is to have a few different designed moments to build to with the instrument instances.
+</p>
